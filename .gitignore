@@ -1,0 +1,11 @@
+# Dossier de dépendance PHP
+vendor/
+
+# Fichier de conf
+.env
+
+# Dossier de dépendance JS
+node_modules/
+
+# Fichiers sensible
+config.json
