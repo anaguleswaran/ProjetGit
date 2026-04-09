@@ -1,11 +1,7 @@
 ## Description
+<!-- Décris le bug/issues corrigé et éventuellement la cause -->
 
-<!-- Informe quelle fonctionnalité a était ajoutée -->
-
-## Checklist
-
-- [ ] Testé localement
-- [ ] A passé les tests unitaires
-- [ ] La nomenclature JS est respectée
-- [ ] N'a pas d'effet secondaire sur le projet
-- [ ] Focntionnalité conforme au ticket (si applicable)
+##Checklist
+ - [ ] Tester localement
+ - [ ] A passer les testes unitaire
+ - [ ] La nomenclature JS est respectée
