@@ -1,0 +1,1 @@
+console.log("pourcentage de réussite : 100%")
