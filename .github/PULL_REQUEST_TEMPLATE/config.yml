@@ -1,0 +1,12 @@
+name: Pull Request Templates
+about: Sélectionne un template pour ta PR
+labels: ["PR Template"] # facultatif, juste pour tagger
+template_options:
+  bug_fix:
+    name: Bug fix
+    description: Correction d’un bug
+    path: .github/PULL_REQUEST_TEMPLATE/bug_fix.md
+  feature:
+    name: Feature
+    description: Nouvelle fonctionnalité
+    path: .github/PULL_REQUEST_TEMPLATE/feature.md
